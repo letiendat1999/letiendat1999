@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Dat Tien Le
-- 👀 I’m interested in Calisthenics, Coding, Beatboxing, drawing and reading.
-- 🌱 I’m currently learning HTML, CSS, Javasccript, ReactJS and Android Development
-- 💞️ I’m looking to collaborate on front-end and UX/UI projects.
 - 📫 How to reach me: you can pm for me by sending email to letiendat22071999@gmail.com
 
 <!---
