@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dat Tien Le
-- 📫 How to reach me: you can pm for me by sending email to letiendat22071999@gmail.com
+- 📫 How to reach me: you can DM for me by sending email to letiendat22071999@gmail.com
 
 <!---
 letiendat1999/letiendat1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
